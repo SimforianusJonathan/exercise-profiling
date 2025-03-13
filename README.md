@@ -32,6 +32,16 @@
 ### TEST HIGHEST-GPA REQUEST JTL
 ![img_14.png](img_resources/img_14.png)
 
+### TEST ALL-STUDENT-NAME REQUEST AFTER OPTIMIZATION
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+
+### TEST HIGHEST-GPA REQUEST AFTER OPTIMIZATION
+![img_4.png](img_4.png)
+
+
 #### Result :
 Terdapat peningkatan performa yang ditunjukkan sebelum optimasi dan setelah optimasi pada beberapa fungsi yang ada di student service di bagian proyek exercise-profiling.
 Peningkatan performa tersebut menunjukkan efketivitas dari proses optimasi yang dilakukan dan berdampak pada efisiensi runtime dan skalabilitas aplikasi.
