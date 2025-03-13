@@ -26,9 +26,8 @@ public class StudentService {
         return studentCourseRepository.findAll();
     }
 
-    public Optional<Student> findStudentWithHighestGpa() {
-        return studentRepository.findAll().stream()
-                .max((student1, student2) -> Double.compare(student1.getGpa(), student2.getGpa()));
+    public Student findStudentWithHighestGpa() {
+        return studentRepository.findFirstByOrderByGpaDesc();
     }
 
     public String joinStudentNames() {
