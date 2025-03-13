@@ -33,14 +33,16 @@
 ![img_14.png](img_resources/img_14.png)
 
 ### TEST ALL-STUDENT-NAME REQUEST AFTER OPTIMIZATION
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![img.png](img_16.png)
+![img_1.png](img_17.png)
+![img_2.png](img_18.png)
+![img_3.png](img_19.png)
 
 ### TEST HIGHEST-GPA REQUEST AFTER OPTIMIZATION
-![img_4.png](img_4.png)
-
+![img_4.png](img_20.png)
+![img_5.png](img_21.png)
+![img_6.png](img_22.png)
+![img_7.png](img_23.png)
 
 #### Result :
 Terdapat peningkatan performa yang ditunjukkan sebelum optimasi dan setelah optimasi pada beberapa fungsi yang ada di student service di bagian proyek exercise-profiling.
